@@ -2,11 +2,11 @@
 <h3> I am a systems analyst and software developer from Argentina, with experience working in different companies and industries. I graduated from the University of Buenos Aires with a degree in systems analysis. I love technology, especially analysis and developing software. </h3>
 
 
-- 🛠 Interested in: **Mobile, fronted, backend, data bases.**
+- 🛠 **Interested in Mobile, fronted, backend, data bases.**
 
-- 😍 What i like to do: **I like challenges, learning, helping and sharing my knowledges.**
+- 😍 **I like challenges, learning, helping and sharing my knowledges.**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 **I’m currently learning React Native**
 
 - 📫 Email: **gm2021g@gmail.com**
 
