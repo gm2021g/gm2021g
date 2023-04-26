@@ -1,13 +1,14 @@
-<h1 align="center">Hi! I'm María Isabel González</h1>
-<h3 align="center">I am a systems analyst and software developer from Argentina, with experience working in different companies and industries. I graduated from the University of Buenos Aires with a degree in systems analysis. I love technology, especially analysis and developing software. </h3>
+<h1> Hi! I'm María Isabel González </h1>
+<h3> I am a systems analyst and software developer from Argentina, with experience working in different companies and industries. I graduated from the University of Buenos Aires with a degree in systems analysis. I love technology, especially analysis and developing software. </h3>
 
-- 🌱 I’m currently learning **React Native**
-
-- 📫 Email **gm2021g@gmail.com**
 
 - 🛠 Interested in: **Mobile, fronted, backend, data bases.**
 
 - 😍 What i like to do: **I like challenges, learning, helping and sharing my knowledges.**
+
+- 🌱 I’m currently learning **React Native**
+
+- 📫 Email: **gm2021g@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
