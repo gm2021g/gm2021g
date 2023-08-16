@@ -1,10 +1,6 @@
 <h1> Hi! I'm María Isabel González </h1>
 
-- 🛠 **Interested in Mobile, Fronted, Backend, Data Bases.**
-
-- 😍 **I like challenges, learning, helping and sharing my knowledges.**
-
-- 🌱 **I’m currently learning React Native**
+- 🛠 **Interested in Backend, Data Bases, Fronted and Mobile.**
 
 - 📫 Email: **gm2021g@gmail.com**
 
